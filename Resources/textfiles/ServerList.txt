@@ -1,0 +1,2 @@
+EOX WCS Server,http://ows.eox.at/cci/ows
+EOX WMS Mapserver,http://kalyke.eox.at/opendata/ows
