@@ -23,7 +23,7 @@
     <string name="settings_section2_title">Servers</string>
     <string name="settings_row4_title">Server capabilities</string>
     <string name="settings_row4_description">Show server capabilities</string>
-    <string name="settings_row5_title">Add Server</string>
+    <string name="settings_row5_title">Aggiungi un Server</string>
     <string name="settings_row5_description">Add a WCS or WMS server</string>
     <string name="settings_section3_title">Queries Metadata</string>
     <string name="settings_row6_title">Coverage description</string>
